@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Aditya Satrio 👋
+
+As software engineer, I am always eager to learn and explore new technologies and startup ventures. I have a strong affinity for coding in Java, as well as proficiency in Golang and Python (which is my personal favorite!).
+
+My passion for product development has led me to managerial responsibilities and hands-on technical work. Currently, I am balancing my managerial responsibilities with hands-on technical work in an early-stage startup focused on ecommerce, parenting, and education. I find this balancing  act invigorating and challenging, and it allows me to stay engaged and passionate about my work. The favorite aspects of my role is the opportunity to learn and contribute to product development.
 
 <!--
 **adityasatrio/adityasatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
