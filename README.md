@@ -1,8 +1,8 @@
 ### Hi there, I am Aditya Satrio 👋
 
-As a software engineer, I am always eager to learn and explore new technologies and startup ventures. I code in Java, as well as proficiency in Golang and Python (which is my personal favorite!).
+As a software engineer, I am always eager to learn and explore new technologies and startup ventures. I code in Java, Python, and Golang.
 
-My passion for product development has led me to managerial responsibilities and hands-on technical work. Currently, I am balancing my managerial responsibilities with hands-on technical work in an early-stage startup focused on e-commerce, parenting, and education. I find this balancing act is challenging, and it allows me to stay engaged and passionate about my work. My favorite aspect of my role is the opportunity to learn and contribute to product development as well as contributes to organizational value.
+My passion for product development has led me to managerial responsibilities and hands-on technical work. I am balancing my managerial responsibilities with hands-on technical work in an early-stage startup. I find this balancing act is challenging, and it allows me to stay engaged and passionate about my work. My favorite aspect of my role is the opportunity to learn and contribute to product development as well as contributes to organizational value.
 
 📫 Linkedin: https://www.linkedin.com/in/adityasatrio
 
