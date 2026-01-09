@@ -5,6 +5,7 @@ As a software engineer, I am always eager to learn and explore new technologies 
 My passion for product development has led me to managerial responsibilities and hands-on technical work. I am balancing my managerial responsibilities with hands-on technical work in an early-stage startup. I find this balancing act is challenging, and it allows me to stay engaged and passionate about my work. My favorite aspect of my role is the opportunity to learn and contribute to product development as well as contributes to organizational value.
 
 📫 Linkedin: https://www.linkedin.com/in/adityasatrio
+📝 blog: https://dev.to/adityasatrio 
 
 <!--
 **adityasatrio/adityasatrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
